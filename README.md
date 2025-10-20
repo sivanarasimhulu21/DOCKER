@@ -48,21 +48,21 @@ newgrp docker
 4.Check Docker version
 ```docker --version
 ```
-
-#### Basic Docker Commands
-Command	Description
-`docker --version`	###Check Docker version###
-`docker images`	###List available images###
-`docker ps`	###List running containers###
-`docker ps -a`	###List all containers###
-`docker start <container_id>`	###Start a stopped container###
-`docker stop <container_id>`	###Stop a running container###
-`docker rm <container_id>`	###Remove a container###
-`docker rmi <image_id>`	###Remove an image###
-`docker exec -it <container_id>`###bash	Access container shell###
-`docker logs <container_id>`	###Show container logs###
-`docker system prune -a`	###Remove unused containers & images###
-
+-------------------------------------------------------------------------------
+| **Command**                           | **Description**                   |
+| ------------------------------------- | --------------------------------- |
+| `docker --version`                    | Check Docker version              |
+| `docker images`                       | List available images             |
+| `docker ps`                           | List running containers           |
+| `docker ps -a`                        | List all containers               |
+| `docker start <container_id>`         | Start a stopped container         |
+| `docker stop <container_id>`          | Stop a running container          |
+| `docker rm <container_id>`            | Remove a container                |
+| `docker rmi <image_id>`               | Remove an image                   |
+| `docker exec -it <container_id> bash` | Access container shell            |
+| `docker logs <container_id>`          | Show container logs               |
+| `docker system prune -a`              | Remove unused containers & images |
+-------------------------------------------------------------------------------
 ## 4 Sample Docker  file creation
 ```
 FROM ubuntu
