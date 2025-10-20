@@ -2,7 +2,7 @@
 This document explains how to set up Docker on an **AWS EC2 instance**, from account creation to container execution. 
 
 ## 1: Create and Log in to Your AWS Account
-1. Go to [https://aws.amazon.com/](https://aws.amazon.com/).
+1. Go to [https://aws.amazon.com/](https://aws.amazon.com/). 
 2. Click **Create an AWS Account**.
 3. Enter your email, password, and billing details.
 4. Once logged in, go to **AWS Management Console**.
