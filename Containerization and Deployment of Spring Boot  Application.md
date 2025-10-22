@@ -78,22 +78,22 @@ This is the Uploading the docker image into docker hub by using the pull command
  
 ## Step 8 : make your containerized application in the runnable state.
 ` docker run -d -p 8080:8080 springbootapp`
+<br><br><br><br><br><br>
+
+
+Congratulations! By following this documentation, you’ve successfully explored the complete lifecycle of a Spring Boot application — from   development to containerized deployment using Docker.  <br><br><br>
 
 
 
-Congratulations! By following this documentation, you’ve successfully explored the complete lifecycle of a Spring Boot application — from   development to containerized deployment using Docker.  
-
-
-
-This project not only showcases practical implementation but also equips you with the skills to adapt, extend, and scale applications efficiently.   Every step has been designed to ensure clarity, consistency, and reliability across environments.  
+This project not only showcases practical implementation but also equips you with the skills to adapt, extend, and scale applications efficiently.   Every step has been designed to ensure clarity, consistency, and reliability across environments.  <br><br><br>
 
 
   
-We encourage you to experiment, innovate, and make this project your own. If you have any questions, ideas, or need guidance, don’t hesitate to   reach out — your curiosity and feedback are always welcome!  
+We encourage you to experiment, innovate, and make this project your own. If you have any questions, ideas, or need guidance, don’t hesitate to   reach out — your curiosity and feedback are always welcome!  <br><br><br>
 
 
  
-Thank you for taking the time to go through this guide. We hope you found it insightful, inspiring, and easy to follow.  
+Thank you for taking the time to go through this guide. We hope you found it insightful, inspiring, and easy to follow.  <br><br><br>
 
 
 
