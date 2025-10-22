@@ -39,8 +39,9 @@ Connect to the Ec2 Instance
 git clone
 or  
 if want the direct project link than the above one is useful that without creation of the project directly Containerization and Deployment of the project  
+ 
+#### After getting of the project into your repository follow the steps 
 
-** After getting of the project into your repository follow the steps **
 
 ```mvn clean package 
 ls -l target
@@ -121,5 +122,5 @@ Thank you for taking the time to go through this guide. We hope you found it ins
 
 
 
-Author: Chittiboina Siva Narasimhulu  
-Project: Spring boot Application creation and Deployment  
+**Author:** Chittiboina Siva Narasimhulu  
+**Project:** Spring boot Application creation and Deployment  
