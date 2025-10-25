@@ -13,6 +13,8 @@ The organization has hired you to help them with simplifying their deployment pr
   Go into the project directory then follow the commands
   Before follow this commands create a GitRepository then follow
   ```
+git clone https://github.com/your-username/your-repo.git
+
 git branch
 git branch -M main
 Git init
